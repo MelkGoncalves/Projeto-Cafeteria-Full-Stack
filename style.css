@@ -1,3 +1,8 @@
 img {
     border-radius: 16px;
 }
+body {
+    background-image: url(assets/bg-image.jpg) ;
+    background-size: cover;
+
+}
